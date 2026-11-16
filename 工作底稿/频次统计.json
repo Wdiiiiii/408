@@ -1,0 +1,5177 @@
+{
+  "CO01": {
+    "name": "体系结构与指令集",
+    "direct": {
+      "all": {
+        "years": 12,
+        "questions": 18,
+        "choice": 15,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 12,
+        "questions": 18,
+        "choice": 15,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO02": {
+    "name": "性能计算",
+    "direct": {
+      "all": {
+        "years": 16,
+        "questions": 19,
+        "choice": 13,
+        "comprehensive": 6
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 16,
+        "questions": 19,
+        "choice": 13,
+        "comprehensive": 6
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO03": {
+    "name": "整数表示与转换",
+    "direct": {
+      "all": {
+        "years": 16,
+        "questions": 28,
+        "choice": 20,
+        "comprehensive": 8
+      },
+      "recent": {
+        "years": 5,
+        "questions": 9,
+        "choice": 6,
+        "comprehensive": 3
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 16,
+        "questions": 28,
+        "choice": 20,
+        "comprehensive": 8
+      },
+      "recent": {
+        "years": 5,
+        "questions": 9,
+        "choice": 6,
+        "comprehensive": 3
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO04": {
+    "name": "整数运算与标志",
+    "direct": {
+      "all": {
+        "years": 16,
+        "questions": 24,
+        "choice": 12,
+        "comprehensive": 12
+      },
+      "recent": {
+        "years": 5,
+        "questions": 8,
+        "choice": 4,
+        "comprehensive": 4
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 16,
+        "questions": 24,
+        "choice": 12,
+        "comprehensive": 12
+      },
+      "recent": {
+        "years": 5,
+        "questions": 8,
+        "choice": 4,
+        "comprehensive": 4
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO05": {
+    "name": "浮点表示",
+    "direct": {
+      "all": {
+        "years": 14,
+        "questions": 14,
+        "choice": 13,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 5,
+        "questions": 5,
+        "choice": 5,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 14,
+        "questions": 14,
+        "choice": 13,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 5,
+        "questions": 5,
+        "choice": 5,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO06": {
+    "name": "浮点运算",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 5,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO07": {
+    "name": "存储器扩展与编址",
+    "direct": {
+      "all": {
+        "years": 11,
+        "questions": 13,
+        "choice": 10,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 11,
+        "questions": 13,
+        "choice": 10,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO08": {
+    "name": "存储芯片与刷新",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 10,
+        "choice": 9,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 10,
+        "choice": 9,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO09": {
+    "name": "交叉编址",
+    "direct": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 5,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 5,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO10": {
+    "name": "Cache映射与容量",
+    "direct": {
+      "all": {
+        "years": 15,
+        "questions": 16,
+        "choice": 7,
+        "comprehensive": 9
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 2,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 15,
+        "questions": 16,
+        "choice": 7,
+        "comprehensive": 9
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 2,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO11": {
+    "name": "Cache命中置换与时间",
+    "direct": {
+      "all": {
+        "years": 11,
+        "questions": 12,
+        "choice": 3,
+        "comprehensive": 9
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 0,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 11,
+        "questions": 13,
+        "choice": 4,
+        "comprehensive": 9
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 1,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO12": {
+    "name": "Cache写策略",
+    "direct": {
+      "all": {
+        "years": 6,
+        "questions": 7,
+        "choice": 4,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 7,
+        "choice": 4,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO13": {
+    "name": "存储层次与局部性",
+    "direct": {
+      "all": {
+        "years": 6,
+        "questions": 7,
+        "choice": 4,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 8,
+        "choice": 5,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO14": {
+    "name": "指令格式",
+    "direct": {
+      "all": {
+        "years": 12,
+        "questions": 15,
+        "choice": 5,
+        "comprehensive": 10
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 1,
+        "comprehensive": 4
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 12,
+        "questions": 15,
+        "choice": 5,
+        "comprehensive": 10
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 1,
+        "comprehensive": 4
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO15": {
+    "name": "寻址方式",
+    "direct": {
+      "all": {
+        "years": 15,
+        "questions": 20,
+        "choice": 11,
+        "comprehensive": 9
+      },
+      "recent": {
+        "years": 3,
+        "questions": 4,
+        "choice": 1,
+        "comprehensive": 3
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 15,
+        "questions": 20,
+        "choice": 11,
+        "comprehensive": 9
+      },
+      "recent": {
+        "years": 3,
+        "questions": 4,
+        "choice": 1,
+        "comprehensive": 3
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO16": {
+    "name": "指令执行与汇编",
+    "direct": {
+      "all": {
+        "years": 15,
+        "questions": 18,
+        "choice": 6,
+        "comprehensive": 12
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 2,
+        "comprehensive": 3
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 15,
+        "questions": 18,
+        "choice": 6,
+        "comprehensive": 12
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 2,
+        "comprehensive": 3
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO17": {
+    "name": "数据通路与控制信号",
+    "direct": {
+      "all": {
+        "years": 13,
+        "questions": 15,
+        "choice": 8,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 5,
+        "questions": 5,
+        "choice": 2,
+        "comprehensive": 3
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 13,
+        "questions": 15,
+        "choice": 8,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 5,
+        "questions": 5,
+        "choice": 2,
+        "comprehensive": 3
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO18": {
+    "name": "控制器与微程序",
+    "direct": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 4,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 0,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 10,
+        "choice": 7,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 4,
+        "choice": 2,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO19": {
+    "name": "流水线性能",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO20": {
+    "name": "流水线相关",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 9,
+        "choice": 7,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 9,
+        "choice": 7,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO21": {
+    "name": "异常",
+    "direct": {
+      "all": {
+        "years": 9,
+        "questions": 12,
+        "choice": 9,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 11,
+        "questions": 16,
+        "choice": 13,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 6,
+        "choice": 5,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO22": {
+    "name": "中断",
+    "direct": {
+      "all": {
+        "years": 17,
+        "questions": 22,
+        "choice": 19,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 17,
+        "questions": 25,
+        "choice": 22,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 6,
+        "choice": 6,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO23": {
+    "name": "DMA",
+    "direct": {
+      "all": {
+        "years": 10,
+        "questions": 10,
+        "choice": 6,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 3,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 11,
+        "questions": 11,
+        "choice": 7,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 3,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO24": {
+    "name": "程序查询",
+    "direct": {
+      "all": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO25": {
+    "name": "总线",
+    "direct": {
+      "all": {
+        "years": 16,
+        "questions": 22,
+        "choice": 19,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 16,
+        "questions": 22,
+        "choice": 19,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO26": {
+    "name": "I/O接口",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 5,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 5,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO27": {
+    "name": "磁盘与存储设备",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 7,
+        "choice": 4,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 8,
+        "choice": 5,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO28": {
+    "name": "并行结构",
+    "direct": {
+      "all": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "CO29": {
+    "name": "海明校验",
+    "direct": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS01": {
+    "name": "复杂度",
+    "direct": {
+      "all": {
+        "years": 16,
+        "questions": 23,
+        "choice": 10,
+        "comprehensive": 13
+      },
+      "recent": {
+        "years": 4,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 16,
+        "questions": 23,
+        "choice": 10,
+        "comprehensive": 13
+      },
+      "recent": {
+        "years": 4,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS02": {
+    "name": "顺序表",
+    "direct": {
+      "all": {
+        "years": 2,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 2,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS03": {
+    "name": "数组算法设计",
+    "direct": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 0,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 0,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS04": {
+    "name": "链表算法",
+    "direct": {
+      "all": {
+        "years": 11,
+        "questions": 12,
+        "choice": 8,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 11,
+        "questions": 12,
+        "choice": 8,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS05": {
+    "name": "栈与递归",
+    "direct": {
+      "all": {
+        "years": 12,
+        "questions": 12,
+        "choice": 10,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 12,
+        "questions": 12,
+        "choice": 10,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS06": {
+    "name": "队列与双端队列",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 7,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 7,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS07": {
+    "name": "表达式与括号",
+    "direct": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 5,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS08": {
+    "name": "数组和矩阵存储",
+    "direct": {
+      "all": {
+        "years": 9,
+        "questions": 11,
+        "choice": 6,
+        "comprehensive": 5
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 1,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 9,
+        "questions": 11,
+        "choice": 6,
+        "comprehensive": 5
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 1,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS10": {
+    "name": "树的数量与形态",
+    "direct": {
+      "all": {
+        "years": 11,
+        "questions": 14,
+        "choice": 12,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 3,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 11,
+        "questions": 14,
+        "choice": 12,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 3,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS11": {
+    "name": "二叉树遍历重建与线索",
+    "direct": {
+      "all": {
+        "years": 15,
+        "questions": 19,
+        "choice": 16,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 15,
+        "questions": 19,
+        "choice": 16,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS12": {
+    "name": "森林转换",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 8,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 9,
+        "questions": 9,
+        "choice": 9,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS13": {
+    "name": "哈夫曼与前缀编码",
+    "direct": {
+      "all": {
+        "years": 14,
+        "questions": 16,
+        "choice": 13,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 14,
+        "questions": 16,
+        "choice": 13,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS14": {
+    "name": "二叉搜索树",
+    "direct": {
+      "all": {
+        "years": 7,
+        "questions": 8,
+        "choice": 5,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 1,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 10,
+        "choice": 7,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 1,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS15": {
+    "name": "AVL树",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 8,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 8,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS16": {
+    "name": "B树",
+    "direct": {
+      "all": {
+        "years": 10,
+        "questions": 10,
+        "choice": 10,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 11,
+        "questions": 11,
+        "choice": 11,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS17": {
+    "name": "B+树",
+    "direct": {
+      "all": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS18": {
+    "name": "图的性质与建模",
+    "direct": {
+      "all": {
+        "years": 13,
+        "questions": 13,
+        "choice": 10,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 5,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 13,
+        "questions": 13,
+        "choice": 10,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 5,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS19": {
+    "name": "图的存储与矩阵",
+    "direct": {
+      "all": {
+        "years": 11,
+        "questions": 13,
+        "choice": 6,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 3,
+        "questions": 4,
+        "choice": 2,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 11,
+        "questions": 14,
+        "choice": 7,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 3,
+        "questions": 4,
+        "choice": 2,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS20": {
+    "name": "图的遍历",
+    "direct": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 6,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 7,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS21": {
+    "name": "最小生成树",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 3,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS22": {
+    "name": "最短路径",
+    "direct": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS23": {
+    "name": "拓扑排序",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 7,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 10,
+        "questions": 10,
+        "choice": 9,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS24": {
+    "name": "关键路径",
+    "direct": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS25": {
+    "name": "顺序分块与加权查找",
+    "direct": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS26": {
+    "name": "折半查找",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 6,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 6,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS27": {
+    "name": "散列",
+    "direct": {
+      "all": {
+        "years": 9,
+        "questions": 9,
+        "choice": 7,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 3,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 9,
+        "questions": 9,
+        "choice": 7,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 3,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 2,
+        "questions": 2,
+        "choice": 0,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS28": {
+    "name": "排序综合辨析",
+    "direct": {
+      "all": {
+        "years": 10,
+        "questions": 11,
+        "choice": 10,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 10,
+        "questions": 11,
+        "choice": 10,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS29": {
+    "name": "插入排序",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 5,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 11,
+        "choice": 11,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 3,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS30": {
+    "name": "希尔排序",
+    "direct": {
+      "all": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 10,
+        "questions": 10,
+        "choice": 10,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS31": {
+    "name": "冒泡排序",
+    "direct": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 5,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS32": {
+    "name": "快速排序与选择",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 6,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 12,
+        "questions": 17,
+        "choice": 15,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 5,
+        "questions": 8,
+        "choice": 7,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS33": {
+    "name": "简单选择排序",
+    "direct": {
+      "all": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 6,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS34": {
+    "name": "堆",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 7,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 12,
+        "questions": 12,
+        "choice": 11,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS35": {
+    "name": "归并排序",
+    "direct": {
+      "all": {
+        "years": 4,
+        "questions": 4,
+        "choice": 3,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 9,
+        "questions": 10,
+        "choice": 9,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS36": {
+    "name": "基数排序",
+    "direct": {
+      "all": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 7,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS37": {
+    "name": "外部排序",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "DS39": {
+    "name": "KMP",
+    "direct": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET01": {
+    "name": "分层与服务",
+    "direct": {
+      "all": {
+        "years": 13,
+        "questions": 14,
+        "choice": 13,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 13,
+        "questions": 15,
+        "choice": 14,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET02": {
+    "name": "时延吞吐与交换",
+    "direct": {
+      "all": {
+        "years": 7,
+        "questions": 9,
+        "choice": 7,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 10,
+        "choice": 8,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET03": {
+    "name": "信道容量与编码",
+    "direct": {
+      "all": {
+        "years": 12,
+        "questions": 12,
+        "choice": 12,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 12,
+        "questions": 12,
+        "choice": 12,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET04": {
+    "name": "物理介质与接口",
+    "direct": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET05": {
+    "name": "差错检测",
+    "direct": {
+      "all": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET06": {
+    "name": "可靠传输与滑动窗口",
+    "direct": {
+      "all": {
+        "years": 13,
+        "questions": 13,
+        "choice": 10,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 13,
+        "questions": 13,
+        "choice": 10,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET07": {
+    "name": "介质访问与复用",
+    "direct": {
+      "all": {
+        "years": 10,
+        "questions": 10,
+        "choice": 8,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 11,
+        "questions": 11,
+        "choice": 9,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET08": {
+    "name": "以太网帧",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 6,
+        "choice": 2,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 5,
+        "questions": 6,
+        "choice": 2,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET09": {
+    "name": "交换桥接与VLAN",
+    "direct": {
+      "all": {
+        "years": 12,
+        "questions": 13,
+        "choice": 10,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 12,
+        "questions": 13,
+        "choice": 10,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET10": {
+    "name": "无线局域网",
+    "direct": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET11": {
+    "name": "IPv4地址与子网",
+    "direct": {
+      "all": {
+        "years": 16,
+        "questions": 24,
+        "choice": 17,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 4,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 16,
+        "questions": 24,
+        "choice": 17,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 4,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET12": {
+    "name": "转发与路由表",
+    "direct": {
+      "all": {
+        "years": 12,
+        "questions": 14,
+        "choice": 8,
+        "comprehensive": 6
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 12,
+        "questions": 14,
+        "choice": 8,
+        "comprehensive": 6
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET13": {
+    "name": "IP首部与分片",
+    "direct": {
+      "all": {
+        "years": 6,
+        "questions": 7,
+        "choice": 1,
+        "comprehensive": 6
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 7,
+        "choice": 1,
+        "comprehensive": 6
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET14": {
+    "name": "ARP DHCP ICMP",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 9,
+        "choice": 5,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 9,
+        "choice": 5,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET15": {
+    "name": "路由协议",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 10,
+        "choice": 6,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 10,
+        "choice": 6,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET16": {
+    "name": "IPv6",
+    "direct": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET17": {
+    "name": "NAT",
+    "direct": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 3,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 3,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET18": {
+    "name": "TCP序号确认与连接",
+    "direct": {
+      "all": {
+        "years": 13,
+        "questions": 17,
+        "choice": 13,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 5,
+        "questions": 5,
+        "choice": 3,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 13,
+        "questions": 17,
+        "choice": 13,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 5,
+        "questions": 5,
+        "choice": 3,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET19": {
+    "name": "TCP流量控制",
+    "direct": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 5,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 5,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET20": {
+    "name": "TCP拥塞控制",
+    "direct": {
+      "all": {
+        "years": 13,
+        "questions": 14,
+        "choice": 11,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 5,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 13,
+        "questions": 14,
+        "choice": 11,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 5,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET21": {
+    "name": "UDP与端口",
+    "direct": {
+      "all": {
+        "years": 6,
+        "questions": 8,
+        "choice": 8,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 9,
+        "choice": 9,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET22": {
+    "name": "DNS",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET23": {
+    "name": "HTTP",
+    "direct": {
+      "all": {
+        "years": 7,
+        "questions": 7,
+        "choice": 6,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 7,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET24": {
+    "name": "FTP",
+    "direct": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 4,
+        "questions": 4,
+        "choice": 3,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET25": {
+    "name": "电子邮件",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 5,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 7,
+        "choice": 7,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET26": {
+    "name": "客户服务器与P2P",
+    "direct": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET27": {
+    "name": "HDLC位填充",
+    "direct": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "NET28": {
+    "name": "SDN",
+    "direct": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS01": {
+    "name": "操作系统概念与启动",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 9,
+        "choice": 8,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 9,
+        "choice": 8,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 3,
+        "choice": 3,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS02": {
+    "name": "特权与系统调用",
+    "direct": {
+      "all": {
+        "years": 15,
+        "questions": 23,
+        "choice": 20,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 8,
+        "choice": 7,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 15,
+        "questions": 25,
+        "choice": 22,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 10,
+        "choice": 9,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS03": {
+    "name": "进程状态与切换",
+    "direct": {
+      "all": {
+        "years": 12,
+        "questions": 16,
+        "choice": 13,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 7,
+        "choice": 5,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 13,
+        "questions": 17,
+        "choice": 14,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 7,
+        "choice": 5,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS04": {
+    "name": "线程",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 6,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 6,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS05": {
+    "name": "互斥机制",
+    "direct": {
+      "all": {
+        "years": 9,
+        "questions": 12,
+        "choice": 9,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 1,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 10,
+        "questions": 14,
+        "choice": 11,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 1,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS06": {
+    "name": "信号量与同步设计",
+    "direct": {
+      "all": {
+        "years": 15,
+        "questions": 15,
+        "choice": 3,
+        "comprehensive": 12
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 1,
+        "comprehensive": 3
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 15,
+        "questions": 15,
+        "choice": 3,
+        "comprehensive": 12
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 1,
+        "comprehensive": 3
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS07": {
+    "name": "调度",
+    "direct": {
+      "all": {
+        "years": 17,
+        "questions": 23,
+        "choice": 20,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 5,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 17,
+        "questions": 23,
+        "choice": 20,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 5,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS08": {
+    "name": "死锁与安全性",
+    "direct": {
+      "all": {
+        "years": 12,
+        "questions": 13,
+        "choice": 12,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 12,
+        "questions": 13,
+        "choice": 12,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS09": {
+    "name": "内存分配与重定位",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 10,
+        "choice": 9,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 10,
+        "questions": 12,
+        "choice": 11,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 4,
+        "questions": 4,
+        "choice": 3,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS10": {
+    "name": "分页与地址转换",
+    "direct": {
+      "all": {
+        "years": 18,
+        "questions": 48,
+        "choice": 29,
+        "comprehensive": 19
+      },
+      "recent": {
+        "years": 5,
+        "questions": 20,
+        "choice": 15,
+        "comprehensive": 5
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 18,
+        "questions": 49,
+        "choice": 30,
+        "comprehensive": 19
+      },
+      "recent": {
+        "years": 5,
+        "questions": 20,
+        "choice": 15,
+        "comprehensive": 5
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS11": {
+    "name": "页面置换",
+    "direct": {
+      "all": {
+        "years": 10,
+        "questions": 10,
+        "choice": 6,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 10,
+        "questions": 10,
+        "choice": 6,
+        "comprehensive": 4
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS12": {
+    "name": "驻留集与工作集",
+    "direct": {
+      "all": {
+        "years": 9,
+        "questions": 13,
+        "choice": 10,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 3,
+        "questions": 4,
+        "choice": 4,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 10,
+        "questions": 15,
+        "choice": 12,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 6,
+        "choice": 6,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS13": {
+    "name": "目录与文件操作",
+    "direct": {
+      "all": {
+        "years": 16,
+        "questions": 21,
+        "choice": 14,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 5,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 16,
+        "questions": 22,
+        "choice": 15,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 5,
+        "questions": 6,
+        "choice": 4,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS14": {
+    "name": "文件分配与索引",
+    "direct": {
+      "all": {
+        "years": 14,
+        "questions": 16,
+        "choice": 9,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 1,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 15,
+        "questions": 18,
+        "choice": 11,
+        "comprehensive": 7
+      },
+      "recent": {
+        "years": 3,
+        "questions": 3,
+        "choice": 1,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS15": {
+    "name": "空闲空间管理",
+    "direct": {
+      "all": {
+        "years": 10,
+        "questions": 11,
+        "choice": 8,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 10,
+        "questions": 11,
+        "choice": 8,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 4,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS16": {
+    "name": "链接",
+    "direct": {
+      "all": {
+        "years": 3,
+        "questions": 3,
+        "choice": 2,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 0,
+        "comprehensive": 1
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 4,
+        "comprehensive": 1
+      },
+      "recent": {
+        "years": 2,
+        "questions": 2,
+        "choice": 1,
+        "comprehensive": 1
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS17": {
+    "name": "磁盘调度",
+    "direct": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 6,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 8,
+        "questions": 8,
+        "choice": 6,
+        "comprehensive": 2
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS18": {
+    "name": "I/O软件层次",
+    "direct": {
+      "all": {
+        "years": 13,
+        "questions": 16,
+        "choice": 13,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 5,
+        "questions": 7,
+        "choice": 5,
+        "comprehensive": 2
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 13,
+        "questions": 16,
+        "choice": 13,
+        "comprehensive": 3
+      },
+      "recent": {
+        "years": 5,
+        "questions": 7,
+        "choice": 5,
+        "comprehensive": 2
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS19": {
+    "name": "缓冲与假脱机",
+    "direct": {
+      "all": {
+        "years": 5,
+        "questions": 5,
+        "choice": 5,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 6,
+        "questions": 6,
+        "choice": 6,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS20": {
+    "name": "进程通信",
+    "direct": {
+      "all": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 2,
+        "questions": 2,
+        "choice": 2,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  },
+  "OS21": {
+    "name": "虚拟机监控器",
+    "direct": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "coverage": {
+      "all": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 1,
+        "questions": 1,
+        "choice": 1,
+        "comprehensive": 0
+      }
+    },
+    "prerequisite": {
+      "all": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      },
+      "recent": {
+        "years": 0,
+        "questions": 0,
+        "choice": 0,
+        "comprehensive": 0
+      }
+    }
+  }
+}
